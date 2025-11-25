@@ -1,6 +1,6 @@
 - 👋 Greetings, I’m Bryson Lee
 - 👀 I’m interested in Data Science & Entreprenuership
-- 🌱 I’m currently learning SQL
+- 🌱 Aspiring Cloud Engineer
 - 📫 How to reach me bryson4k@gmail.com 
 - ⚡ Fun fact: My interest spans from investing, financial markets, and weapons
 
